@@ -1,0 +1,15 @@
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\bin\Debug\net6.0\EmployeeProject.exe
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\bin\Debug\net6.0\EmployeeProject.deps.json
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\bin\Debug\net6.0\EmployeeProject.runtimeconfig.json
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\bin\Debug\net6.0\EmployeeProject.dll
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\bin\Debug\net6.0\EmployeeProject.pdb
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.AssemblyReference.cache
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\obj\Debug\net6.0\EmployeeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\obj\Debug\net6.0\EmployeeProject.AssemblyInfoInputs.cache
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\obj\Debug\net6.0\EmployeeProject.AssemblyInfo.cs
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\obj\Debug\net6.0\EmployeeProject.dll
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\obj\Debug\net6.0\refint\EmployeeProject.dll
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\obj\Debug\net6.0\EmployeeProject.pdb
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\obj\Debug\net6.0\EmployeeProject.genruntimeconfig.cache
+C:\Users\dinesh\OneDrive - Capgemini\Desktop\EmployeeProject\obj\Debug\net6.0\ref\EmployeeProject.dll
